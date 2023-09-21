@@ -1,3 +1,4 @@
 matplotlib
 pylatexenc
 qiskit-ibm-runtime @ git+https://github.com/Qiskit/qiskit-ibm-runtime.git@experimental
+qiskit_aer
