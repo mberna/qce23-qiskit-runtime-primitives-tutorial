@@ -1,6 +1,6 @@
 # QCE 2023 Developing with Qiskit Runtime Primitives
 
-Materials for the [IEEE Quantum Week 2022 - Using Qiskit Runtime Primitives with Error Suppression and Error Mitigation](https://qce.quantum.ieee.org/2023/tutorials-program/).
+Materials for the [IEEE Quantum Week 2023 - Using Qiskit Runtime Primitives with Error Suppression and Error Mitigation](https://qce.quantum.ieee.org/2023/tutorials-program/).
 
 ## Installation
 
